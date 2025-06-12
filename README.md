@@ -1,6 +1,6 @@
 ![Pyright](https://github.com/microsoft/pyright/blob/main/docs/img/PyrightLarge.png)
 
-# Static Type Checker for Python
+# Static Type Checker for Pythonpython.analysis.languageServerMode
 
 Pyright is a full-featured, standards-based static type checker for Python. It is designed for high performance and can be used with large Python source bases.
 
